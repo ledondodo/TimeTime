@@ -1,5 +1,5 @@
 # TimeTime
-TimeTime is a multifunction alarm watch (e.g. Casio) created on Logisim, using digital systems such as logic gates. It can be uploaded on an FPGA board, we worked on the DE10-Lite.
+TimeTime is a multifunctional alarm watch (e.g. Casio) created on Logisim, using digital systems such as logic gates. It can be uploaded on an FPGA board, we worked on the DE10-Lite.
 It was my third project at EPFL, in Bachelor Microengineering.
 
 The TimeTime watch offer the following features : a clock, an alarm that plays The Imperial March, a chrono and a timer. 
