@@ -21,7 +21,7 @@ The time is displayed as : HH.MM.SS.
 There are 4 states : clock, alarm, chrono, timer. You can navigate through the different states in the present order using B1 (long press).
 The current state is indicated by the 4 state LEDs.
 
-+ The clock state displays the time. B2 (long press) allows you to set the time (set function).
++ The **clock state** displays the time. B2 (long press) allows you to set the time (set function).
 + The alarm state displays the alarm time. B2 (long press) allows you to set the alarm (set function). The alarm DIP switch set the alarm on/off. The alarm LED turns on if the alarm is on. When the alarm rings, The Imperial March is played on the buzzer. You can turn it off with the alarm DIP switch.
 + The chrono state displays the chrono. B1 (short press) starts/stops the chrono, B2 (short press) clear the chrono.
 + The timer state displays the timer. B2 (long press) allows you to set the alarm (set function), B1 (short press) starts/stops the timer.
