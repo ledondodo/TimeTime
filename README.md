@@ -7,7 +7,7 @@ It was my third project at EPFL, in Bachelor Microengineering.
 </p>
 
 ## Launch the program
-Open the file [TimeTime.circ](TimeTime.circ) with Logisim-evolution v3.7.2. To upload it on an FPGA board, use the menu FPGA>"Synthesize & Download". Then you have to connect the different I/O of the board corresponding to the I/O of the circuit. (You can refer to the document [report](report.pdf).)
+Open the file [TimeTime](TimeTime.circ) with Logisim-evolution v3.7.2. To upload it on an FPGA board, use the menu FPGA>"Synthesize & Download". Then you have to connect the different I/O of the board corresponding to the I/O of the circuit. (You can refer to the document [report](report.pdf).)
 
 ## How it works ?
 
