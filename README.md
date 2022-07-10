@@ -1,5 +1,5 @@
 # TimeTime
-TimeTime is a multifunction alarm watch (e.g. Casio) created on Logisim, using digital systems such as logic gates. Then it can be uploaded on an FPGA board, we worked on the DE10-Lite.
+TimeTime is a multifunction alarm watch (e.g. Casio) created on Logisim, using digital systems such as logic gates. It can be uploaded on an FPGA board, we worked on the DE10-Lite.
 It was my third project at EPFL, in Bachelor Microengineering.
 
 <p align="center">
