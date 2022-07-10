@@ -3,7 +3,7 @@ TimeTime is a multifunction alarm watch (e.g. Casio) created on Logisim, using d
 It was my third project at EPFL, in Bachelor Microengineering.
 
 <p align="center">
-  <img src="img/circuit.png" width=40% height=40%>
+  <img src="img/circuit.png" width=60% height=60%>
 </p>
 
 The TimeTime watch offer the following features : a clock, an alarm that plays The Imperial March, a chrono and a timer. 
