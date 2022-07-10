@@ -2,13 +2,13 @@
 TimeTime is a multifunction alarm watch (e.g. Casio) created on Logisim, using digital systems such as logic gates. It can be uploaded on an FPGA board, we worked on the DE10-Lite.
 It was my third project at EPFL, in Bachelor Microengineering.
 
-<p align="center">
-  <img src="img/circuit.png" width=90% height=90%>
-</p>
-
 The TimeTime watch offer the following features : a clock, an alarm that plays The Imperial March, a chrono and a timer. 
 
 The watch uses 6 seven-segment display, 2 buttons, 7 LEDs, 2 DIP switches and 2 peripherics : a keypad and a buzzer.
+
+<p align="center">
+  <img src="img/circuit.png" width=90% height=90%>
+</p>
 
 ## Upload the circuit on an FPGA board
 Open the file [TimeTime](TimeTime.circ) with Logisim-evolution v3.7.2. To upload it on an FPGA board, use the menu FPGA>"Synthesize & Download". Then you have to connect the different I/O of the board corresponding to the I/O of the circuit. (You can refer to the document [report](report.pdf).)
