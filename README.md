@@ -11,3 +11,6 @@ Open the file [TimeTime](TimeTime.circ) with Logisim-evolution v3.7.2. To upload
 
 ## Logisim
 This project uses the software Logisim-evolution v3.7.2. You may encounter some issues if you try to open it with an earlier version.
+
+## License
+[MIT License](LICENSE)
