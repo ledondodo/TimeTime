@@ -15,6 +15,7 @@ Open the file [TimeTime](TimeTime.circ) with Logisim-evolution v3.7.2. To upload
 
 ## How it works ?
 As you turn on the FPGA, do a long press simultaneously on B1 and B2 (general reset). The watch displays "/" and the reset LED turns on, that indicates the reset is done. You can release the buttons. Then the watch displays the time, it is the clock state.
+
 The time is displayed as : HH.MM.SS.
 
 There are 4 states : clock, alarm, chrono, timer. You can navigate through the different states in the present order using B1 (long press).
