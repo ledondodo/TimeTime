@@ -13,7 +13,7 @@ The watch uses 6 seven-segment display, 2 buttons, 7 LEDs, 2 DIP switches and 2 
 ## Upload the circuit on an FPGA board
 Open the file [TimeTime](TimeTime.circ) with Logisim-evolution v3.7.2. To upload it on an FPGA board, use the menu FPGA>"Synthesize & Download". Then you have to connect the different I/O of the board corresponding to the I/O of the circuit (you can refer to the document [report](report.pdf)).
 
-## How it works
+## How does it work ?
 As you turn on the FPGA, do a long press simultaneously on B1 and B2 (general reset). The watch displays "/" and the reset LED turns on, that indicates the reset is done. You can release the buttons. Then the watch displays the time, it is the clock state.
 
 The time is displayed as : HH.MM.SS.
