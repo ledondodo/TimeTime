@@ -34,5 +34,8 @@ Bonus function : the reverse DIP switch allows you to reverse the display anytim
 ## Logisim
 This project uses the software Logisim-evolution v3.7.2. You may encounter some issues if you try to open it with an earlier version.
 
+## Collaborators
+I worked on this project with one classmate.
+
 ## License
 [MIT License](LICENSE)
